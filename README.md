@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/bf/c2/54/bfc2543521c334125bdb520fbf797a0a.jpg" width="100%" alt="Banner Superior">
+  <img src="https://i.pinimg.com/1200x/bf/c2/54/bfc2543521c334125bdb520fbf797a0a.jpg" width="50%" alt="Banner Superior">
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BR%2BRjmmb8Tnu23vf7uyARbA%3D%3D" target="_blank"><img src="https://shields.io" alt="LinkedIn" style = ></a>
