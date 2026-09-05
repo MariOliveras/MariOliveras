@@ -3,21 +3,27 @@
   <img src="https://i.pinimg.com/1200x/2e/de/7b/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" style="max-height: 150px; object-fit: cover; object-position: center; border-radius: 8px;" alt="Tech Illustration"> 
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:marioliveralbubarris@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="E-mail">
-  </a>
+
+
+<p align="center"> <a href="https://linkedin.com" target="_blank"> 
+    <img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" height="28"> </a> 
+    <a href="mailto:marioliveralbubarris@gmail.com" target="_blank"> <img src="https://i.pinimg.com/1200x/0e/ae/ed/0eaeed29d426ecd30501cec6ba3d0953.jpg" height="28"> </a> 
+</p> <br> 
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> <tr> <td align="left" valign="top" width="70%">
+
+<br>
+
+<h3>Hey there! I'm Mariana Oliveira 👋</h3>
+
+<p>
+  <b>Técnico em Desenvolvimento de Sistemas | Mediotec Senac</b><br>
+  <i>Class of 2027</i>
 </p>
 
-<br> 
-<table align="center" border="10" cellpadding="30" cellspacing="30" width="100%">
-  <tr>
-    <td align="left" valign="top" width="70%">
-
+<p>
+  Sou de Recife e apaixonada por tecnologia, focada em criar
+  soluções digitais eficientes através do código.
+</p>
 <h3>Hey there! I'm Mariana Oliveira </h3>
 
 <p>
