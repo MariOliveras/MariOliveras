@@ -3,16 +3,16 @@
 </p>
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" height="28">
+    <img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" height="40">
   </a>
   
   <a href="mailto:marioliveralbubarris@gmail.com" target="_blank">
-    <img src="https://i.pinimg.com/1200x/0e/ae/ed/0eaeed29d426ecd30501cec6ba3d0953.jpg" height="28">
+    <img src="https://i.pinimg.com/1200x/0e/ae/ed/0eaeed29d426ecd30501cec6ba3d0953.jpg" height="40">
   </a>
 </p>
 
 <br> 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table align="center" border="10" cellpadding="30" cellspacing="30" width="100%">
   <tr>
     <td align="left" valign="top" width="70%">
 
