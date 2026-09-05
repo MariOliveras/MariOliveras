@@ -1,13 +1,15 @@
+
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9b/df/fe/9bdffe803af614aa22547ffa35fbb173.jpg" width="100%" style="max-height: 25px; object-fit: cover; object-position: center; border-radius: 8px;" alt="Tech Illustration"> 
+  <img src="https://i.pinimg.com/1200x/2e/de/7b/2ede7b2dc3b86f162d05817aed376b73.jpg" width="100%" style="max-height: 150px; object-fit: cover; object-position: center; border-radius: 8px;" alt="Tech Illustration"> 
 </p>
+
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://i.pinimg.com/736x/19/40/ab/1940abcfbcbdbdb11b1b8fdbf2f01973.jpg" height="40">
+    <img src="https://shields.io" alt="LinkedIn">
   </a>
   
   <a href="mailto:marioliveralbubarris@gmail.com" target="_blank">
-    <img src="https://i.pinimg.com/1200x/0e/ae/ed/0eaeed29d426ecd30501cec6ba3d0953.jpg" height="40">
+    <img src="https://shields.io" alt="E-mail">
   </a>
 </p>
 
